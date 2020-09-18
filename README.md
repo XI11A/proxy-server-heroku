@@ -2,7 +2,7 @@
 
 Run a google reverse proxy using golang on Heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/XI11A/proxy-server-heroku)
 
 ## Installation 
 -  Deploy Button
@@ -14,7 +14,7 @@ copy of the app, then Set `UPSTREAM_SERVER` config vars.
 
 Steps：
 
-1. git clone https://github.com/fromxt/google-proxy-heroku.git
+1. git clone https://github.com/XI11A/proxy-server-heroku.git
 
 2. cd google-proxy-heroku ,then modify `main.go`
  ```
